@@ -5,6 +5,8 @@ https://cook-n-split.netlify.app/
 
 ![image](https://github.com/Zotq/cook-n-split/assets/88341255/5acdefc0-a9df-4c03-9ea8-8cc342e788b4)
 
+
+This project is from "jonas schmedtmann" Course.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
